@@ -5,7 +5,7 @@
     <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="140" height="140"/> </a>    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="140" height="140"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="140" height="140"/> </a>       
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="140" height="140"/> </a> 
+     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="140" height="140"/> </a>
 
   <h3>Este repositório faz parte dos meus estudos na Digital Innovation One.</h3>
   <a href="https://digitalinnovation.one/sign-in"><img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150"></a>
